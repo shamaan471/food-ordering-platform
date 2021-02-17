@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Domain
+### Domain
 https://react-my-burger-3b001.web.app/
 
 ## Available Scripts
